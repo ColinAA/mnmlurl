@@ -1,4 +1,4 @@
-const endpoint = 'https://api.jsonbin.io/$2b$10$dNJ5.hB3bkzfnZTftxiPcO3Oz8CMu2WwiyIC2wCl8j65F0QJmOmty'
+const endpoint = 'https://api.jsonbin.io/b/$2b$10$dNJ5.hB3bkzfnZTftxiPcO3Oz8CMu2WwiyIC2wCl8j65F0QJmOmty'
 const ebox = document.getElementById('erbox')
 const fetchJSON = (a) => {
 	const f = new XMLHttpRequest()
